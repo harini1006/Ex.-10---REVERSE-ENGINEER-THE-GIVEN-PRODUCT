@@ -31,12 +31,14 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![image](https://github.com/harini1006/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/113497405/f8cb2bd5-d5bd-4130-a6ef-e23ce60b0b6d)
 
 ### Output:
+![image](https://github.com/harini1006/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/113497405/2734c721-eb6d-43c3-8748-2975e9eb3460)
+![image](https://github.com/harini1006/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/113497405/cd6efcb8-468f-44cd-bcb2-20d7e582c07c)
 
-
-### Name:
-### Register Number:
+### Name: Harini V
+### Register Number: 212222230044
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
